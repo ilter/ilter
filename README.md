@@ -1,5 +1,4 @@
 ### Hi there 👋 I'm Ilter
-<h3> A passionate Mobile Developer from Istanbul,Turkey </h3>
 <hr>
 
 
