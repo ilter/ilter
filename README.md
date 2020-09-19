@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Ilter
 <hr>
-<h3 align="center">A passionate Mobile Developer from Istanbul,Turkey</h3>
+##A passionate Mobile Developer from Istanbul,Turkey
 
 Who I Am & What I Do
 
@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 * 🌱 I’m currently learning Swift
 * 💬 Ask me about React Native & JavaScript & Python
 * 📫 How to reach me: ilter.kose@ozu.edu.tr
--->
 
 Let's get in touch:
 
