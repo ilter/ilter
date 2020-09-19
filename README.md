@@ -1,11 +1,14 @@
-### Hi there 👋 I'm Ilter
+### Hi there  👋  I'm Ilter
 <hr>
 
 <h3> Who I Am & What I Do? </h3>
 
 * 🧑🏽‍💻 I’m Jr Mobile Developer at Inveon
+
 * 🌱 I’m currently learning Swift
+
 * 💬 Ask me about React Native & JavaScript & Python
+
 * 📫 How to reach me: ilter.kose@ozu.edu.tr
 
 Let's get in touch:
