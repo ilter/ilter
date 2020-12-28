@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ilter</h1>
 <h3 align="center">Who I Am & What I Do?</h3>
 
-- 👨🏽‍💻 I’m Jr Mobile Developer at Inveon
+- 👨🏽‍💻 I’m Jr Mobile Developer at **Inveon**
 
 - 🔭 I’m currently working on [FastAPI](https://github.com/ilter/UniFind-API)
 
