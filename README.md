@@ -3,7 +3,7 @@
 
 - 👨🏽‍💻 I’m Jr Mobile Developer at **Inveon**
 
-- 🔭 I’m currently working on [FastAPI](https://github.com/ilter/UniFind-API)
+- 🔭 I’m currently working on [FastAPI](https://github.com/ilter/UniFind-API), [zerotohero.dev](https://github.com/zerotohero-dev/)
 
 - 🌱 I’m currently learning **Swift**
 
