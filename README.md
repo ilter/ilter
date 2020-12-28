@@ -15,6 +15,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/ilterkose" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ilterkose" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/uXjjTsgagW" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="https://discord.gg/uXjjTsgagW" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/ilter_kose" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="ilter_kose" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
