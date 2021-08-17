@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ilter</h1>
 <h3 align="center">Who I Am & What I Do?</h3>
 
-- 👨🏽‍💻 I’m iOS Developer at [zerotohero.dev](https://github.com/getir)
+- 👨🏽‍💻 I’m iOS Developer at [Getir](https://github.com/getir)
 
 - 🌱 I’m currently learning **Swift & Go**
 
